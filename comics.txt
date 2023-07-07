@@ -1,0 +1,14 @@
+{
+  "12345534634": {
+    "titulo": "hombre Araña",
+    "autor": "El autor",
+    "issn": "12345566",
+    "cantidad": 340
+  },
+  "12345534635": {
+    "titulo": "hombre Araña pico pal que lee hola",
+    "autor": "El autor2",
+    "issn": "123455662",
+    "cantidad": 340
+  }
+}
