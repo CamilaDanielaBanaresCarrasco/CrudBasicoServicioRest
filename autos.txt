@@ -1,0 +1,15 @@
+{
+  "DEF789012": {
+    "marca": "Chevrolet",
+    "modelo": "Camaro",
+    "año": 2023,
+    "color": "Negro",
+    "cantidad": 8
+  },
+  "2b8a784b-31c4-4113-a574-8109017f3207": {
+    "modelo": "nininin"
+  },
+  "null": {
+    "titulo": "CHINICIIIICIIASF Modificadodsb1b"
+  }
+}

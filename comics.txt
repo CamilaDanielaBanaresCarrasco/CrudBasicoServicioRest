@@ -6,9 +6,15 @@
     "cantidad": 340
   },
   "12345534635": {
-    "titulo": "hombre Araña pico pal que lee hola",
+    "titulo": "CHINICIIIICIIASF Modificadodsb1b",
     "autor": "El autor2",
     "issn": "123455662",
     "cantidad": 340
+  },
+  "3ce227cb-c64a-46a6-9828-1e0ec2f1e1b9": {
+    "marca": "hombre Araña pico pal que lee hola holi holi"
+  },
+  "null": {
+    "titulo": "CHINICIIIICIIASF Modificadodsb1b"
   }
 }
